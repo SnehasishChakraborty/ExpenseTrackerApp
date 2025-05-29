@@ -4,4 +4,4 @@ This is a Responsive website created using React.js and Material UI, which helps
 Since it uses Local Storage, the entries put into the website stays unaltered even after the page is reloaded.
 Hence, it gives a handy user experience just like a Native App on your device and can easily be used without thinking about losing your entries.
 
-Enjoy using the website for your daily usage!
+Enjoy using the website for your daily usage! Link: https://snehasish-expense-tracker.netlify.app/
